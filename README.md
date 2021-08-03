@@ -1,6 +1,7 @@
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="150" height="150" />
-<h2>🙏🏻 नमस्ते (Namaste), How do you do 💐💐💐
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="130" height="130" />
+
+## 🙏🏻 नमस्ते (Namaste), How do you do <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 </br>
 </br>
