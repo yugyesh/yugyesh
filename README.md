@@ -1,5 +1,4 @@
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="120" height="120" />
 
 <h2>🙏🏻 नमस्ते (Namaste), How do you do <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 </h2>
@@ -8,6 +7,7 @@
 I'm Yugesh KC, Big data/Software engineer from Nepal🇳🇵, currently I am living in South Korea🇰🇷.
 
 ---
+<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="170" height="170" />
 
 - 🌱 I’m currently learning data engineering nano degree from Udacity.
 - 👯 I’m looking for a mentor.
