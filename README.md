@@ -6,8 +6,17 @@
 </br>
 I'm Yugesh KC, Big data/Software engineer from Nepal🇳🇵, currently I am living in South Korea🇰🇷.
 
----
-<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="170" height="170" />
+<h3> I Love working with</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-0089D6?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-002000?style=flat-square&logo=PostgreSQL&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Apache Cassandra-000000?style=flat-square&logo=Apache Cassandra&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/vscode-000000?style=flat-square&logo=Visual Studio Code&logoColor=white">
+</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="170" height="190" />
 
 - 🌱 I’m currently learning data engineering nano degree from Udacity.
 - 👯 I’m looking for a mentor.
