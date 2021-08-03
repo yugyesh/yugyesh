@@ -1,9 +1,9 @@
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="130" height="130" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="120" height="120" />
 
-## 🙏🏻 नमस्ते (Namaste), How do you do <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h2>🙏🏻 नमस्ते (Namaste), How do you do <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+</h2>
 
-</br>
 </br>
 I'm Yugesh KC, Big data/Software engineer from Nepal🇳🇵, currently I am living in South Korea🇰🇷.
 
