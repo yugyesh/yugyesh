@@ -18,8 +18,6 @@ I'm Yugesh KC, Big data/Software engineer from Nepal🇳🇵, currently I am liv
 </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="170" height="190" />
 
-- 🌱 I’m currently learning data engineering nano degree from Udacity.
-- 👯 I’m looking for a mentor.
 - 💬 Ask me about data engineering.
 - 💰 I count money in hours.
 - 💪 Discipline > Motivation
